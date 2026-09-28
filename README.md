@@ -4,7 +4,7 @@ An interactive Streamlit page on the **Tourism Lebanon 2023** dataset (Impact Op
 It shows where Lebanon's hotels, restaurants, cafés and guest houses are concentrated and whether towns
 with more of them score higher on the Tourism Index (0–10).
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app  <!-- replace after deploying -->
+**Live app:** (https://fatima-homework-l9hu3bzrwiafw5kahsot3g.streamlit.app)
 
 ## Features
 - **Facility type** (radio): switches both charts between hotels, restaurants, cafés and guest houses.
